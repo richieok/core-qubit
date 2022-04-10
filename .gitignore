@@ -6,3 +6,4 @@ node_modules
 .env
 .env.*
 !.env.example
+ecosystem.config.js
